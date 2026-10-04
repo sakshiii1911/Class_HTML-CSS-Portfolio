@@ -33,6 +33,161 @@ body{
 
 }
 
+.selfinfo{
+    margin-left: 50px;
+    margin: 20px;
+}
+
+.selfinfo h1, h3, p {
+    margin-top: 20px;
+}
+
+.selfinfo p {
+   
+    text-wrap: balance;
+} 
+
+
+
+
+.photo img {
+    height: 200px;
+    width: 200px;
+    margin: 45px;
+}
+
+.prodiv{
+background-color: rgb(183, 180, 180);
+height: 40px;
+}
+.prodiv h1{
+text-align: center;
+}
+
+
+.projects{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+}
+
+.card{
+     
+    margin-top: 20px;
+    height: 300px;
+    width: 300px;
+    border: solid black 2px;
+}
+
+.card img{
+height: 100px;
+width: auto;
+margin-left: 60px;
+margin-top: 20px;
+
+}
+
+.card h4{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.card p{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.techdiv{
+    margin-top: 30px;
+background-color: rgb(183, 180, 180);
+height: 40px;
+}
+.techdiv h1{
+text-align: center;
+
+}
+
+.technologies{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    margin-top: 30px;
+}
+
+.one,.two{
+    margin-top: 20px;
+}
+
+.aboutdiv{
+    margin-top: 30px;
+background-color: rgb(183, 180, 180);
+height: 40px;
+}
+.aboutdiv h1{
+text-align: center;
+
+}
+
+
+
+.aboutMe{
+   margin-top: 30px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+    
+}
+
+.contactdiv{
+    margin-top: 30px;
+background-color: rgb(183, 180, 180);
+height: 40px;
+}
+.contactdiv h1{
+text-align: center;
+
+}
+
+.contact .contactform{
+   border: solid black 2px;
+   width: 400px;
+   height: 350px;
+   margin:30px auto;
+  
+}
+
+.contactform label{
+    margin-left: 20px;
+  
+}
+.contactform h4{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.contactform input, textarea{
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+
+.formcontrol{
+    margin-top: 20px;
+}
+
+.formcontrol button{
+    margin-left: 150px;
+   height: 30px;
+    width: 100px;
+    background-color: orange;
+}
+
+
 
 
 
